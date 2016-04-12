@@ -1,0 +1,11 @@
+1.  Database js file -> make js file that triggers sql queries with proper params and stuff, then relays responses
+2.  Make SQL php page(s) to actually make sql queries
+3.  Make login page
+4.  Make cart page
+5.  Make account page
+6.  Make wishlist page
+7.  Make admin pages
+8.  Make gallery use sql and show all pictures
+9.  Make user sale history page
+10. Make Big picture page
+11. 
